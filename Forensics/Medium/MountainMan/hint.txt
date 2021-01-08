@@ -1,0 +1,1 @@
+lear more abuout hexdump and jpeg file format

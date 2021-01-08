@@ -1,0 +1,2 @@
+Found that there are hiddenfiles via strings or xxd
+used binwalker and found zip files unziped them found an image strings or xxd to get the flag

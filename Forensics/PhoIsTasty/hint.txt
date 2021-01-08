@@ -1,0 +1,1 @@
+Learned new thing: strings will not always work but xxd will (dump it and see it for yourself)

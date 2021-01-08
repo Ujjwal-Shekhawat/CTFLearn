@@ -1,0 +1,4 @@
+binwalk -e
+binwalk -D
+
+these two were very useful

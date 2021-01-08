@@ -1,0 +1,3 @@
+I found two ways:
+1.) xxd file | grep CTF (or whatever)
+2.) hexeditor

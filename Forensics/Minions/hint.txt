@@ -1,0 +1,8 @@
+strings or xxd found megalink for another image
+Downloaded another image used binwalk
+After that found one zip i nthe binwalk extracted folder in whicj i found final image which had base64 encoded string decoded multiple times and found the answer
+
+Off Topic:
+Learned about file attributes such as immutable and appendonly
+Also learned about chattr and lsattr commands
+Need to learn more about no-clobber andf clobber

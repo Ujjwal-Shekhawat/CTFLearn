@@ -1,0 +1,1 @@
+ls -la to find hidden dir with password.txt in linux same goes for macos too

@@ -1,0 +1,1 @@
+used xxd or strings > dump and found several flags one of them was correct

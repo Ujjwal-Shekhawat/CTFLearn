@@ -1,0 +1,1 @@
+learn gdb and little endian and bigendian compilers and bufferoverflow and binary exploits (can be used to write exploits for vuln os

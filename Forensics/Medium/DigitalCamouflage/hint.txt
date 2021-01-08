@@ -1,0 +1,1 @@
+strings or xxd the pcap file see html and find username and password password is html encoded which decoded to base64 string which decodes to password that is flag

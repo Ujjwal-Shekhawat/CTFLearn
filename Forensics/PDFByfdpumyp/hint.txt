@@ -1,0 +1,3 @@
+Used binwalk and found the base64 encoded strings in original pdf itself
+
+Still not sure what does the password endoded string does and how shoud i deal with .zlib files after extraction through binwalk

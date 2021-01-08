@@ -1,0 +1,5 @@
+Nice tool : https://www.tunnelsup.com/hash-analyzer/
+
+used exiftool found a decoy
+Then used binwalk -D '.*' file.jpeg got some more files and searched them using strnings or xxd
+found a base64 encoded string in 0 and decoded it to find the flag

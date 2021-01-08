@@ -1,0 +1,3 @@
+strings or xxd retived base64 encoded string which on decoding gave password of a file
+Used binwalk and found that there is a zip file in image
+Opened that zip file with password that was previouslt found and got the flag

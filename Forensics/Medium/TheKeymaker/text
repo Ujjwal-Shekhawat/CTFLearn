@@ -1,0 +1,6 @@
+openssl enc -d -aes-256-cbc -iv SOF0 -K SOS -in flag.enc -out flag -base64
+
+iv does not include the marker or length of SOF0
+
+key does not include the S0S marker
+

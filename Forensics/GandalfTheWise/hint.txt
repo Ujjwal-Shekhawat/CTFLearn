@@ -1,0 +1,6 @@
+Useful Links: https://cryptii.com/ and http://xor.pw/#
+used cyberchef
+
+used xxd or strings to dump the file and saw three strings one base64 encoded
+When decoded it gave a decoy flag with hint xor_is_your_friend
+below it there were two strings which i xored on xor.pw and hot a hex string which i later converted into string from cyberchef adn finally got the answer.

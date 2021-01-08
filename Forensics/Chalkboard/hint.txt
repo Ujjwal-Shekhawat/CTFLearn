@@ -1,0 +1,1 @@
+strings or xxd solve the equation replace values of x and y in the flag
